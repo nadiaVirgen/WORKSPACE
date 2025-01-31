@@ -1,2 +1,3 @@
 Mi primer programa 
 Commit de forma alternativa
+Comando status
