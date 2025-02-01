@@ -1,3 +1,6 @@
 Mi primer programa 
 Commit de forma alternativa
 Comando status
+
+
+hola mundo rama principal
